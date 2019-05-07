@@ -1,8 +1,10 @@
 # Write a speak_to_grandma method.
+def speak_to_grandma(string)
+
 # Whatever you say to grandma, she should respond with
-if #speak_to_grandma == #speak_to_grandma.upcase
+if speak == speak.upcase
   put 'NO, NOT SINCE 1938!'
-elsif #speak_to_grandma == 'I LOVE YOU GRANDMA!'
+elsif speak == 'I LOVE YOU GRANDMA!'
 put 'I LOVE YOU TOO PUMPKIN!'
 else
   put 'HUH?! SPEAK UP, SONNY!'
